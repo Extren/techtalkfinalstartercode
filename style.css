@@ -1,0 +1,21 @@
+
+body{
+    
+background-color:#fff570;
+}
+img{
+    height:200px;
+    margin:10;
+}
+.li{
+    background-color:#78e27a;
+    margin-top:10px;
+    
+}
+h1{
+    color:red;
+}
+#Ro{
+    from {background-color=red;}
+    to {background-color: white;}
+}
